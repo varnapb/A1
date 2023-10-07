@@ -1,0 +1,88 @@
+.Navigation{
+    float: none;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+.Navigation a{
+    text-decoration: none;
+    color:pulm;
+   /* border: 1px solid black;*/
+    margin: 5px;
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*styling starts here*/
+h2{
+
+    border: 2px solid black;
+    padding  :30px;
+    padding-left: 40%;
+}
+h1{
+    color: brown;
+   padding-left: 43%;
+
+}
+.profile{
+    border: 5px;
+    width: 20%;
+    margin-left: 8%;
+    
+
+}
+.image{
+    margin-left: 5%;
+}
+
+p{
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 5%;
+   /* border: 1px solid red;*/
+    margin-left: 1%
+
+
+}
+.skill{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+ 
+
+}
+ul{
+    padding-left: 10%;
+   margin-left: 5%; 
+  /* border: 1px solid red;*/
+    
+
+}
+.Contact{
+    color: black;
+    
+}
+.contact{
+    padding-left: 30%;
+}
+#submit{
+    margin-left: 10%;
+    
+}
+.media a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+   /* border: 1px solid white;*/
+    margin: 1px;
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.copy{
+    color: rgb(238, 0, 0);
+    padding-left:60%
+    
+}
+.top{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 90%;
+    
+}
